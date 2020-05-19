@@ -70,7 +70,7 @@ Change `upload_dir` and `public path`:
 
 ```yaml:title=.forestry/settings.yml
 upload_dir: static/uploads
-public_path: "/static/uploads"
+public_path: "/uploads"
 ```
 
 This sets where media is saved. Visit Gatsby's [guide on its static folder](/docs/static-folder/) to learn more. The rest of the settings can remain the same.
